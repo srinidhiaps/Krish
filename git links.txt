@@ -1,0 +1,8 @@
+http://guides.beanstalkapp.com/version-control/common-git-commands.html
+
+https://dzone.com/articles/top-20-git-commands-with-examples
+https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
+
+Maven - git
+-----------
+https://gist.github.com/fernandezpablo85/03cf8b0cd2e7d8527063
